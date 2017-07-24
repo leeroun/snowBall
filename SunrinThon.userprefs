@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Snowman.cs">
+    <Files>
+      <File FileName="Assets\Test\TestMovingBackGround.cs" Line="1" Column="1" />
+      <File FileName="Assets\Test\TestSnow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Test\TestSnowBall.cs" Line="1" Column="1" />
+      <File FileName="Assets\Test\GM.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\SnowFall.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\AccelerationManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Canon.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\PauseButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Char.cs" Line="29" Column="52" />
+      <File FileName="Assets\Script\GameManager.cs" Line="11" Column="66" />
+      <File FileName="Assets\Script\SnowBall.cs" Line="25" Column="28" />
+      <File FileName="Assets\Script\SnowmanSpawn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Snowman.cs" Line="34" Column="39" />
+      <File FileName="Assets\Script\BackgroundMoving.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Script\SnowFallShake.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\Script\BackGroundFloor.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
